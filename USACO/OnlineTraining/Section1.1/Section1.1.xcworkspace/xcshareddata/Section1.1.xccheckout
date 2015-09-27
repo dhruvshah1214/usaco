@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C333EC6-A4E2-4AC0-8043-93C6A051C9E2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Section1.1</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52CCE5C5-37CB-4C81-A631-C2B5422C9AAA</key>
+		<string>../GreedyGiftGivers</string>
+		<key>80D384D0-0D19-493A-9D08-3B439DF9F378</key>
+		<string>../MilkingCows</string>
+		<key>A7A48E27-49F9-47AB-9BDE-A491628EC2AB</key>
+		<string>../BrokenNecklace</string>
+		<key>AC9C8ABD-C44F-48BC-89CD-4F9D9A6F2832</key>
+		<string>../FridayTheThirteenth</string>
+		<key>E6F8339F-B522-49B6-BE60-8F029582AA50</key>
+		<string>../YourRideIsHere</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+</dict>
+</plist>
