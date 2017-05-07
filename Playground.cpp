@@ -1,18 +1,33 @@
-//
-//  Playground.cpp
-//  
-//
-//  Created by Dhruv Shah on 9/20/15.
-//
-//
+/*
+ LANG: C++11
+ TASK:
+ */
 
-#include <stdio.h>
-#include <fstream>
 #include <iostream>
+#include <fstream>
+#include <algorithm>
+#include <string>
+#include <vector>
+#include <cmath>
+#include <climits>
+
+#define MAXINT 1 << 29
 
 
-// 0-1 shortest path
-// no cost to traverse to some nodes
-// difference between unit-length shortest path
-// except - check cost and based on cost push_front or push_back
-// and distance[x] = distance[u] + 0 if cost == 0
+using namespace std;
+
+int N;
+
+
+int sq(int i) { return i * i; }
+
+
+int main(int argc, const char * argv[]) {
+    ifstream in(".in");
+    ofstream out(".out");
+    
+    
+    return 0;
+}
+
+
